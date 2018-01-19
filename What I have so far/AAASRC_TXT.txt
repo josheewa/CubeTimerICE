@@ -150,3 +150,7 @@ Repeat K!=0
 				If K!=54 or K!=55 or K!=9
 					Goto KCHECK
 				End
+			End
+		End
+	End
+End
